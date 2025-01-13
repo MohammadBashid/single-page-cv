@@ -1,0 +1,57 @@
+div.solid {
+    border-style: solid;
+    margin-left: 370px;
+    padding-left: 80px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+
+body.widdth {
+    width: 1150px
+}
+
+header.topline {
+    border-top-style: solid;
+    width: 600px;
+
+}
+
+p.topbottom {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+h2.topbottom {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+h3.topbottom {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+h5.topbottom {
+    margin-top: 4px;
+}
+
+h5{
+    font-weight: normal;
+  }
+
+  h4{
+    font-weight: normal;
+  }
+
+  h5.topbottomview{
+    font-weight: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+
+h5.bold{
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
